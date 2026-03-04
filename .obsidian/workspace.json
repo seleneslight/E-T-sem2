@@ -4,26 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "7578a30a41c88ca9",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "2e7df58186971413",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "README"
-            }
-          }
-        ]
-      },
-      {
         "id": "91367fc9cdf80247",
         "type": "tabs",
         "children": [
@@ -31,13 +11,60 @@
             "id": "e58509e1bf0586a4",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "tree/Probability Theory and Statistics.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Probability Theory and Statistics"
+            }
+          },
+          {
+            "id": "c03dd4bdd97b5a37",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "tree/Physics 2 Index.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Physics 2 Index"
+            }
+          },
+          {
+            "id": "cfa489b7a7a39063",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "tree/Circuits Theory 2 Index.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Circuits Theory 2 Index"
+            }
+          },
+          {
+            "id": "3117cad5af3369fd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "tree/Electronic Devices Index.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Electronic Devices Index"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -94,7 +121,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "77922b9036872af3",
@@ -110,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "tree/Electronic Devices Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +147,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for README"
+              "title": "Backlinks for Electronic Devices Index"
             }
           },
           {
@@ -129,12 +156,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "tree/Electronic Devices Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from README"
+              "title": "Outgoing links from Electronic Devices Index"
             }
           },
           {
@@ -172,13 +199,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md",
+                "file": "tree/Electronic Devices Index.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of README"
+              "title": "Outline of Electronic Devices Index"
             }
           }
         ]
@@ -199,9 +226,32 @@
       "bases:Create new base": false
     }
   },
-  "active": "2e7df58186971413",
+  "active": "3117cad5af3369fd",
   "lastOpenFiles": [
-    "Welcome.md",
+    "Note Formula.md",
+    "tree/Circuits Theory 2 Index.md",
+    "tree/Electronic Metrology Index.md",
+    "tree/Probability Theory and Statistics.md",
+    "tree/Physics 2 Index.md",
+    "Home.md",
+    "tree/Methodology and Programming Techniques 2 Index.md",
+    "tree/Mathematical Analysis 2 Index.md",
+    "tree/Electronic Devices Index.md",
+    "resources/physics-2/exercises/set1.pdf",
+    "tree/branches",
+    "Untitled 2",
+    "Untitled 1",
+    "resources/mathematical-analysis-2",
+    "resources/methodology-and-programming-techniques-2/Untitled",
+    "resources/physics-2/exercises",
+    "resources/Untitled.md",
+    "resources/methodology-and-programming-techniques-2/Untitled.md",
+    "resources/physics-2",
+    "resources/methodology-and-programming-techniques-2/laboratories/Session 1/ex_4.cpp",
+    "resources/methodology-and-programming-techniques-2/laboratories/Session 1/ex_3.cpp",
+    "Untitled 1.md",
+    "UntitledFormat of.md",
+    "tree/Introduction into Academic English Index.md",
     "README.md"
   ]
 }
