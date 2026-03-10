@@ -8,63 +8,34 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e58509e1bf0586a4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "tree/Probability Theory and Statistics.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Probability Theory and Statistics"
-            }
-          },
-          {
-            "id": "c03dd4bdd97b5a37",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "tree/Physics 2 Index.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Physics 2 Index"
-            }
-          },
-          {
-            "id": "cfa489b7a7a39063",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "tree/Circuits Theory 2 Index.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Circuits Theory 2 Index"
-            }
-          },
-          {
             "id": "3117cad5af3369fd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "tree/Electronic Devices Index.md",
+                "file": "Note Template.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Electronic Devices Index"
+              "title": "Note Template"
+            }
+          },
+          {
+            "id": "5c42f4bf23305603",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Note Template.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Note Template"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -137,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "tree/Electronic Devices Index.md",
+                "file": "Academic Writing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +118,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Electronic Devices Index"
+              "title": "Backlinks for Academic Writing"
             }
           },
           {
@@ -156,12 +127,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "tree/Electronic Devices Index.md",
+                "file": "Academic Writing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Electronic Devices Index"
+              "title": "Outgoing links from Academic Writing"
             }
           },
           {
@@ -199,24 +170,36 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "tree/Electronic Devices Index.md",
+                "file": "Academic Writing.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Electronic Devices Index"
+              "title": "Outline of Academic Writing"
+            }
+          },
+          {
+            "id": "b422b8939908a439",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
+      "code-files:Create Code File": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -226,32 +209,35 @@
       "bases:Create new base": false
     }
   },
-  "active": "3117cad5af3369fd",
+  "active": "7f85c4dc7be8a719",
   "lastOpenFiles": [
-    "Note Formula.md",
-    "tree/Circuits Theory 2 Index.md",
-    "tree/Electronic Metrology Index.md",
-    "tree/Probability Theory and Statistics.md",
-    "tree/Physics 2 Index.md",
+    "resources/physics-2/misc",
+    "resources/methodology-and-programming-techniques-2/misc",
+    "resources/introduction-to-academic-english/misc",
+    "resources/mathematical-analysis-2/misc",
     "Home.md",
-    "tree/Methodology and Programming Techniques 2 Index.md",
-    "tree/Mathematical Analysis 2 Index.md",
-    "tree/Electronic Devices Index.md",
+    "tree/roots/Probability Theory and Statistics.md",
+    "tree/roots/Physics 2.md",
+    "tree/roots/Methodology and Programming Techniques 2.md",
+    "tree/roots/Mathematical Analysis 2.md",
+    "tree/roots/Introduction into Academic English.md",
+    "tree/roots/Electronic Metrology.md",
+    "tree/roots/Electronic Devices.md",
+    "tree/roots/Circuits Theory 2.md",
+    "Note Template.md",
+    "resources/mathematical-analysis-2/L1/Lect01_tests_of_convergence_02.pdf",
+    "resources/mathematical-analysis-2/L1/analysis2_01_series_number_power_Taylor_short.pdf",
+    "resources/mathematical-analysis-2/L1/Number_series.pdf",
+    "resources/mathematical-analysis-2/L1",
+    "tree/branches/Lecture 1 - Number Series, Taylor Series, Power Series.md",
+    "tree/roots",
+    "Academic Writing.md",
     "resources/physics-2/exercises/set1.pdf",
     "tree/branches",
-    "Untitled 2",
-    "Untitled 1",
-    "resources/mathematical-analysis-2",
-    "resources/methodology-and-programming-techniques-2/Untitled",
-    "resources/physics-2/exercises",
     "resources/Untitled.md",
     "resources/methodology-and-programming-techniques-2/Untitled.md",
-    "resources/physics-2",
-    "resources/methodology-and-programming-techniques-2/laboratories/Session 1/ex_4.cpp",
-    "resources/methodology-and-programming-techniques-2/laboratories/Session 1/ex_3.cpp",
     "Untitled 1.md",
     "UntitledFormat of.md",
-    "tree/Introduction into Academic English Index.md",
     "README.md"
   ]
 }
