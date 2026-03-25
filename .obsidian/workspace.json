@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "tree/branches/Lecture 4 - Uncertainty.md",
+                "file": "Academic Writing.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lecture 4 - Uncertainty"
+              "title": "Academic Writing"
             }
           }
         ]
@@ -197,8 +197,18 @@
   },
   "active": "c00fdbde812ffa75",
   "lastOpenFiles": [
-    "Note Template.md",
     "tree/branches/Lecture 4 - Uncertainty.md",
+    "resources/physics-2/lab-reports/K-12-Viscosity_en.pdf",
+    "resources/physics-2/lab-reports/K-11-Diffraction_en.pdf",
+    "resources/physics-2/lab-reports/K-09-Bohr_en.pdf",
+    "resources/physics-2/lab-reports/K-08-Induction_en.pdf",
+    "resources/physics-2/lab-reports/K-07-Spring_en.pdf",
+    "resources/physics-2/lab-reports/K-05-Hall_en.pdf",
+    "resources/physics-2/lab-reports/K-04-Temperature_en.pdf",
+    "resources/physics-2/lab-reports/K-03-Acoustic_en.pdf",
+    "resources/physics-2/lab-reports/K-01-Refraction_en.pdf",
+    "resources/physics-2/lab-instructions/11_In-Diffraction_en.pdf",
+    "Note Template.md",
     "tree/branches/Lecture 1 - Number Series, Taylor Series, Power Series.md",
     "tree/roots/Electronic Metrology.md",
     "tree/roots/Mathematical Analysis 2.md",
@@ -207,16 +217,6 @@
     "tree/roots/Circuits Theory 2.md",
     "tree/roots/Electronic Devices.md",
     "Untitled.md",
-    "resources/electronic-metrology-1/misc",
-    "resources/electronic-metrology-1",
-    "resources/methodology-and-programming-techniques-2/laboratories/Session 4/ciphered.txt",
-    "resources/methodology-and-programming-techniques-2/laboratories/Session 4/english.txt",
-    "resources/methodology-and-programming-techniques-2/laboratories/Session 4/message.txt",
-    "resources/methodology-and-programming-techniques-2/laboratories/Session 4/bird_usdown.txt",
-    "resources/methodology-and-programming-techniques-2/laboratories/Session 3/ex_3.cpp",
-    "resources/methodology-and-programming-techniques-2/laboratories/Session 3/ex",
-    "Untitled",
-    "resources/methodology-and-programming-techniques-2/laboratories/Session 3/ex_2.cpp",
     "How to defend against bullshit.md",
     "Home.md",
     "tree/roots/Probability Theory and Statistics.md",
