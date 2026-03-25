@@ -8,49 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3117cad5af3369fd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Note Template.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Note Template"
-            }
-          },
-          {
-            "id": "5c42f4bf23305603",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Note Template.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Note Template"
-            }
-          },
-          {
             "id": "c00fdbde812ffa75",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "tree/branches/Lecture 4 - Uncertainty.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "Lecture 4 - Uncertainty"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -224,32 +195,32 @@
       "bases:Create new base": false
     }
   },
-  "active": "7f85c4dc7be8a719",
+  "active": "c00fdbde812ffa75",
   "lastOpenFiles": [
+    "Note Template.md",
+    "tree/branches/Lecture 4 - Uncertainty.md",
+    "tree/branches/Lecture 1 - Number Series, Taylor Series, Power Series.md",
+    "tree/roots/Electronic Metrology.md",
+    "tree/roots/Mathematical Analysis 2.md",
+    "tree/roots/Methodology and Programming Techniques 2.md",
+    "tree/roots/Physics 2.md",
+    "tree/roots/Circuits Theory 2.md",
+    "tree/roots/Electronic Devices.md",
+    "Untitled.md",
+    "resources/electronic-metrology-1/misc",
+    "resources/electronic-metrology-1",
     "resources/methodology-and-programming-techniques-2/laboratories/Session 4/ciphered.txt",
     "resources/methodology-and-programming-techniques-2/laboratories/Session 4/english.txt",
     "resources/methodology-and-programming-techniques-2/laboratories/Session 4/message.txt",
     "resources/methodology-and-programming-techniques-2/laboratories/Session 4/bird_usdown.txt",
     "resources/methodology-and-programming-techniques-2/laboratories/Session 3/ex_3.cpp",
     "resources/methodology-and-programming-techniques-2/laboratories/Session 3/ex",
-    "Note Template.md",
-    "Untitled.md",
     "Untitled",
     "resources/methodology-and-programming-techniques-2/laboratories/Session 3/ex_2.cpp",
-    "resources/methodology-and-programming-techniques-2/laboratories/Session 3/ex_2.pp",
-    "resources/methodology-and-programming-techniques-2/laboratories/Session 3/runme.exe",
-    "resources/methodology-and-programming-techniques-2/laboratories/Session 3/ex_1.cpp",
     "How to defend against bullshit.md",
     "Home.md",
     "tree/roots/Probability Theory and Statistics.md",
-    "tree/roots/Physics 2.md",
-    "tree/roots/Methodology and Programming Techniques 2.md",
-    "tree/roots/Mathematical Analysis 2.md",
     "tree/roots/Introduction into Academic English.md",
-    "tree/roots/Electronic Metrology.md",
-    "tree/roots/Electronic Devices.md",
-    "tree/roots/Circuits Theory 2.md",
-    "tree/branches/Lecture 1 - Number Series, Taylor Series, Power Series.md",
     "Academic Writing.md",
     "resources/Untitled.md",
     "resources/methodology-and-programming-techniques-2/Untitled.md",
