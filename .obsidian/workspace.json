@@ -25,28 +25,22 @@
             "id": "5f35ad6822fd1051",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "tree/branches/Citation formats.md",
-                "mode": "source",
-                "source": false
+                "file": "resources/physics-2/lab-instructions/01_In-Refraction_en.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Citation formats"
+              "icon": "lucide-file-text",
+              "title": "01_In-Refraction_en"
             }
           },
           {
             "id": "f32eed388b5611d5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Abstract.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Abstract"
+              "title": "New tab"
             }
           },
           {
@@ -74,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -248,23 +242,25 @@
       "bases:Create new base": false
     }
   },
-  "active": "5f35ad6822fd1051",
+  "active": "7f85c4dc7be8a719",
   "lastOpenFiles": [
+    "resources/physics-2/exercises/set1.pdf",
+    "Untitled.md",
+    "resources/methodology-and-programming-techniques-2/laboratories/Session 9/triangle.py",
+    "resources/methodology-and-programming-techniques-2/laboratories/Session 9/square.py",
+    "resources/methodology-and-programming-techniques-2/laboratories/Session 9/ex1.py",
+    "resources/methodology-and-programming-techniques-2/laboratories/Session 9",
+    "resources/methodology-and-programming-techniques-2/laboratories/New folder",
+    "resources/physics-2/lab-instructions/01_In-Refraction_en.pdf",
+    "tree/branches/Citation formats.md",
     "Academic Writing.md",
     "Electronic Devices - Lab Report 1.md",
     "Circuit Theory Lab - Frequency response.md",
-    "tree/branches/Citation formats.md",
     "Abstract.md",
     "resources/physics-2/lab-reports/K-12-Viscosity_en.pdf",
     "resources/methodology-and-programming-techniques-2/laboratories/Session 8/ex3.py",
     "resources/methodology-and-programming-techniques-2/laboratories/Session 8/ex2.py",
     "resources/methodology-and-programming-techniques-2/laboratories/Session 8/ex1.py",
-    "resources/methodology-and-programming-techniques-2/laboratories/Session 8/main.py",
-    "resources/methodology-and-programming-techniques-2/laboratories/Session 8",
-    "resources/methodology-and-programming-techniques-2/laboratories/New folder",
-    "resources/physics-2/lab-instructions/12_In-Viscosity_en.pdf",
-    "resources/physics-2/lab-reports/K-11-Diffraction_en.pdf",
-    "resources/physics-2/lab-instructions/11_In-Diffraction_en.pdf",
     "tree/branches/Lecture 4 - Uncertainty.md",
     "Note Template.md",
     "tree/branches/Lecture 1 - Number Series, Taylor Series, Power Series.md",
