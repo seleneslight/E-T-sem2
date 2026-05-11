@@ -37,10 +37,14 @@
             "id": "f32eed388b5611d5",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Untitled"
             }
           },
           {
@@ -242,25 +246,24 @@
       "bases:Create new base": false
     }
   },
-  "active": "b422b8939908a439",
+  "active": "f32eed388b5611d5",
   "lastOpenFiles": [
+    "Untitled.md",
+    "resources/physics-2/lab-instructions/01_In-Refraction_en.pdf",
     "resources/physics-2/exercises/set3.pdf",
     "resources/physics-2/exercises/set2.pdf",
     "resources/physics-2/exercises/set4.pdf",
-    "Untitled.md",
     "resources/physics-2/exercises/set1.pdf",
     "resources/methodology-and-programming-techniques-2/laboratories/Session 9/triangle.py",
     "resources/methodology-and-programming-techniques-2/laboratories/Session 9/square.py",
     "resources/methodology-and-programming-techniques-2/laboratories/Session 9/ex1.py",
     "resources/methodology-and-programming-techniques-2/laboratories/Session 9",
     "resources/methodology-and-programming-techniques-2/laboratories/New folder",
-    "resources/physics-2/lab-instructions/01_In-Refraction_en.pdf",
     "tree/branches/Citation formats.md",
     "Academic Writing.md",
     "Electronic Devices - Lab Report 1.md",
     "Circuit Theory Lab - Frequency response.md",
     "Abstract.md",
-    "resources/physics-2/lab-reports/K-12-Viscosity_en.pdf",
     "tree/branches/Lecture 4 - Uncertainty.md",
     "Note Template.md",
     "tree/branches/Lecture 1 - Number Series, Taylor Series, Power Series.md",
