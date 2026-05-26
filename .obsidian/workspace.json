@@ -23,12 +23,14 @@
             "id": "8a52c772d8ddcf95",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "split-diff-view",
               "state": {
-                "file": "resources/physics-2/exercises/set3.pdf"
+                "aFile": "README.md",
+                "bFile": "README.md",
+                "aRef": ""
               },
-              "icon": "lucide-file-text",
-              "title": "set3"
+              "icon": "diff",
+              "title": "Diff: README  (Working Tree)"
             }
           }
         ],
@@ -89,7 +91,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 205.5
   },
   "right": {
     "id": "77922b9036872af3",
@@ -208,27 +210,29 @@
   },
   "active": "7f85c4dc7be8a719",
   "lastOpenFiles": [
-    "resources/physics-2/lectures/Lecture8-Harmonic oscillator-2025-26.pdf",
+    "resources/circuit-theor-2/lectures/CT_Lecture_2_05_TwoPort.pdf",
+    "resources/circuit-theor-2/lectures/CT_Lecture_2_04_Bode plots.pdf",
+    "resources/circuit-theor-2/lectures/CT_Lecture_2_03_TransferFunction.pdf",
+    "resources/circuit-theor-2/lectures/CT_Lecture_2_02_Laplace.pdf",
+    "resources/circuit-theor-2/lectures/CT_Lecture_2_01_OpAmp.pdf",
+    "resources/circuit-theor-2/lectures",
+    "resources/circuit-theor-2",
+    "Home.md",
+    "Note Template.md",
+    "Untitled.md",
+    "README.md",
+    "Untitled 1.md",
     "resources/physics-2/lectures/Lecture 12 -Waves - 2026-summer.pdf",
     "resources/physics-2/lectures/Lecture 11 - Maxwell equations - 2025-26.pdf",
     "resources/physics-2/lectures/Lecture 10 - Magnetic field - 2026-summer.pdf",
-    "resources/physics-2/lectures/Lecture 9-Electric field-2025-26.pdf",
-    "resources/physics-2/exercises/set2.pdf",
-    "resources/physics-2/exercises/set1.pdf",
-    "tree/branches/Citation formats.md",
-    "resources/physics-2/lectures",
-    "tree/branches/Lecture 1 - Number Series, Taylor Series, Power Series.md",
     "resources/physics-2/exercises/set3.pdf",
-    "resources/physics-2/lab-reports/K-05-Hall_en.pdf",
-    "resources/physics-2/exercises/set4.pdf",
-    "README.md",
-    "Untitled.md",
+    "tree/branches/Citation formats.md",
+    "tree/branches/Lecture 1 - Number Series, Taylor Series, Power Series.md",
     "Academic Writing.md",
     "Electronic Devices - Lab Report 1.md",
     "Circuit Theory Lab - Frequency response.md",
     "Abstract.md",
     "tree/branches/Lecture 4 - Uncertainty.md",
-    "Note Template.md",
     "tree/roots/Electronic Metrology.md",
     "tree/roots/Mathematical Analysis 2.md",
     "tree/roots/Methodology and Programming Techniques 2.md",
@@ -236,7 +240,6 @@
     "tree/roots/Circuits Theory 2.md",
     "tree/roots/Electronic Devices.md",
     "How to defend against bullshit.md",
-    "Home.md",
     "tree/roots/Probability Theory and Statistics.md",
     "tree/roots/Introduction into Academic English.md",
     "resources/Untitled.md",
