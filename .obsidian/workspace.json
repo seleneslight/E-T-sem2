@@ -23,14 +23,12 @@
             "id": "8a52c772d8ddcf95",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "pdf",
               "state": {
-                "aFile": "README.md",
-                "bFile": "README.md",
-                "aRef": ""
+                "file": "resources/mathematical-analysis-2/exercises/Number_series.pdf"
               },
-              "icon": "diff",
-              "title": "Diff: README  (Working Tree)"
+              "icon": "lucide-file-text",
+              "title": "Number_series"
             }
           }
         ],
@@ -91,7 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 205.5
+    "width": 500.5
   },
   "right": {
     "id": "77922b9036872af3",
@@ -210,22 +208,22 @@
   },
   "active": "7f85c4dc7be8a719",
   "lastOpenFiles": [
-    "resources/circuit-theor-2/lectures/CT_Lecture_2_05_TwoPort.pdf",
-    "resources/circuit-theor-2/lectures/CT_Lecture_2_04_Bode plots.pdf",
-    "resources/circuit-theor-2/lectures/CT_Lecture_2_03_TransferFunction.pdf",
+    "resources/mathematical-analysis-2/lectures/all_power_series_intro.pdf",
+    "resources/mathematical-analysis-2/lectures/Lect01_Power_Series.pdf",
+    "resources/mathematical-analysis-2/exercises/analysis2_01_series_number_power_Taylor_short.pdf",
+    "resources/mathematical-analysis-2/lectures/Lect01_tests_of_convergence_02.pdf",
+    "resources/mathematical-analysis-2/exercises",
+    "resources/mathematical-analysis-2/lectures",
     "resources/circuit-theor-2/lectures/CT_Lecture_2_02_Laplace.pdf",
     "resources/circuit-theor-2/lectures/CT_Lecture_2_01_OpAmp.pdf",
-    "resources/circuit-theor-2/lectures",
-    "resources/circuit-theor-2",
+    "resources/physics-2/lectures/Lecture 8-Harmonic oscillator-2025-26.pdf",
+    "resources/circuit-theor-2/lectures/CT_Lecture_2_05_TwoPort.pdf",
+    "resources/circuit-theor-2/lectures/CT_Lecture_2_04_Bode plots.pdf",
     "Home.md",
     "Note Template.md",
     "Untitled.md",
     "README.md",
     "Untitled 1.md",
-    "resources/physics-2/lectures/Lecture 12 -Waves - 2026-summer.pdf",
-    "resources/physics-2/lectures/Lecture 11 - Maxwell equations - 2025-26.pdf",
-    "resources/physics-2/lectures/Lecture 10 - Magnetic field - 2026-summer.pdf",
-    "resources/physics-2/exercises/set3.pdf",
     "tree/branches/Citation formats.md",
     "tree/branches/Lecture 1 - Number Series, Taylor Series, Power Series.md",
     "Academic Writing.md",
