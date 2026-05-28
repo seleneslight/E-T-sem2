@@ -4,35 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "91367fc9cdf80247",
+        "id": "bd569d606822269e",
         "type": "tabs",
         "children": [
           {
-            "id": "c00fdbde812ffa75",
+            "id": "170f438faed257f2",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "resources/physics-2/lab-reports/K-03-Acoustic_en.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "K-03-Acoustic_en"
-            }
-          },
-          {
-            "id": "8a52c772d8ddcf95",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "resources/mathematical-analysis-2/exercises/Number_series.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Number_series"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -206,19 +191,19 @@
       "code-files:Create Code File": false
     }
   },
-  "active": "7f85c4dc7be8a719",
+  "active": "170f438faed257f2",
   "lastOpenFiles": [
-    "resources/mathematical-analysis-2/lectures/Lect02_Function_series_McInerney_Kinga_05.pdf",
-    "resources/mathematical-analysis-2/exercises/analysis2_02Q_function_series.pdf",
-    "resources/electronic-devices/lab-manuals/ex_00.pdf",
-    "resources/electronic-devices/lab-manuals/ex_01.pdf",
-    "resources/electronic-devices/lab-manuals/ex_02_Diodes_v2.pdf",
-    "resources/electronic-devices/lab-manuals/ex_03.pdf",
-    "resources/electronic-devices/lab-manuals/ex_04.pdf",
-    "resources/electronic-devices/lab-manuals/ex_05.pdf",
-    "resources/electronic-devices/lab-manuals/ex_06.pdf",
-    "resources/electronic-devices/lab-manuals/ex07_EE.pdf",
-    "resources/electronic-devices/lab-manuals/ex_08.pdf",
+    "resources/mathematical-analysis-2/exercises/analysis2_01_series_number_power_Taylor_short.pdf",
+    "resources/mathematical-analysis-2/lectures/Fourier_basic_formulae.pdf",
+    "resources/mathematical-analysis-2/lectures/Lect01_Power_Series.pdf",
+    "resources/mathematical-analysis-2/lectures/complex_Fourier.pdf",
+    "resources/mathematical-analysis-2/lectures/Fourier_series_McInerney_Kinga_18_part3 1.pdf",
+    "resources/mathematical-analysis-2/lectures/Fourier_series_McInerney_Kinga_18_part3.pdf",
+    "resources/mathematical-analysis-2/exercises/Fourier_series_2021_T4_solution_class_test 1.pdf",
+    "resources/mathematical-analysis-2/exercises/Fourier_series_2021_T4_solution_class_test.pdf",
+    "resources/mathematical-analysis-2/exercises/fourier_series_with+param_a.pdf",
+    "resources/mathematical-analysis-2/exercises/EX_03_trig_Fourier_Series.pdf",
+    "resources/mathematical-analysis-2/exercises/Fourier_series_2021_McI_examples_solved_05.pdf",
     "Home.md",
     "Note Template.md",
     "Untitled.md",
