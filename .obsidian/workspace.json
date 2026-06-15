@@ -4,51 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "82c9d130c06e4e72",
+        "id": "bd569d606822269e",
         "type": "tabs",
         "children": [
           {
-            "id": "b7afaeab14cc36f9",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "resources/electronic-devices/lab-manuals/ex_08.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "ex_08"
-            }
-          },
-          {
-            "id": "37ce82495370bd27",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled 1.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Untitled 1"
-            }
-          },
-          {
-            "id": "8ba19b81837d4621",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "user story prezent.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "user story prezent"
-            }
-          },
-          {
-            "id": "34b2d31621b8aad3",
+            "id": "170f438faed257f2",
             "type": "leaf",
             "state": {
               "type": "pdf",
@@ -60,41 +20,19 @@
             }
           },
           {
-            "id": "10fabb6dc0e48af8",
+            "id": "1d7600a9ff1daaf1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Wave Interference.md",
-                "mode": "source",
-                "source": false
+                "file": "resources/physics-2/exercises/set5.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Wave Interference"
+              "icon": "lucide-file-text",
+              "title": "set5"
             }
           }
         ],
-        "currentTab": 3
-      },
-      {
-        "id": "432150759931ea44",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "c2098249a30c6142",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Wave Interference.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Wave Interference"
-            }
-          }
-        ]
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -151,7 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 205.5
+    "width": 500.5
   },
   "right": {
     "id": "77922b9036872af3",
@@ -268,35 +206,24 @@
       "code-files:Create Code File": false
     }
   },
-  "active": "c2098249a30c6142",
+  "active": "1d7600a9ff1daaf1",
   "lastOpenFiles": [
+    "Measurements.md",
+    "resources/physics-2/exercises/set7.pdf",
+    "resources/physics-2/exercises/set6.pdf",
+    "resources/physics-2/exercises/PhysicsII_7(26).pdf",
+    "resources/physics-2/exercises/PhysicsII_6(26).pdf",
     "resources/physics-2/lectures/Lecture 12 -Waves - 2026-summer.pdf",
-    "Wave Interference.md",
-    "user story prezent.md",
-    "Untitled 1.md",
-    "Untitled.md",
-    "matlab-4.png",
-    "resources/physics-2/lectures/Lecture 10 - Magnetic field - 2026-summer.pdf",
-    "resources/physics-2/lectures/Lecture 8-Harmonic oscillator-2025-26.pdf",
-    "Python+Matlab.pdf",
-    "python-6.png",
-    "python-5.png",
-    "python-4.png",
-    "python-3.png",
-    "python-2.png",
-    "python-1.png",
-    "matlab-3-code.png",
-    "matlab-3.png",
-    "matlab-2.png",
-    "resources/electronic-devices/lab-manuals/ex_08.pdf",
-    "resources/electronic-devices/lab-manuals/ex_02_Diodes_v2.pdf",
-    "resources/electronic-devices/lab-manuals/ex07_EE.pdf",
-    "resources/physics-2/lab-reports/K-03-Acoustic_en.pdf",
-    "resources/mathematical-analysis-2/L1/analysis2_01_series_number_power_Taylor_short.pdf",
-    "resources/electronic-devices/lectures/lecture10.pdf",
+    "tree/branches/Wave Interference.md",
+    "resources/mathematical-analysis-2/exercises/analysis2_01_series_number_power_Taylor_short.pdf",
+    "resources/mathematical-analysis-2/lectures/Fourier_basic_formulae.pdf",
+    "resources/mathematical-analysis-2/lectures/Lect01_Power_Series.pdf",
+    "resources/mathematical-analysis-2/lectures/complex_Fourier.pdf",
+    "resources/mathematical-analysis-2/lectures/Fourier_series_McInerney_Kinga_18_part3 1.pdf",
     "Home.md",
     "Note Template.md",
     "README.md",
+    "Untitled 1.md",
     "tree/branches/Citation formats.md",
     "tree/branches/Lecture 1 - Number Series, Taylor Series, Power Series.md",
     "Academic Writing.md",
@@ -314,6 +241,7 @@
     "tree/roots/Probability Theory and Statistics.md",
     "tree/roots/Introduction into Academic English.md",
     "resources/Untitled.md",
-    "resources/methodology-and-programming-techniques-2/Untitled.md"
+    "resources/methodology-and-programming-techniques-2/Untitled.md",
+    "UntitledFormat of.md"
   ]
 }

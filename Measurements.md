@@ -1,0 +1,1 @@
+single bit duration $28\miu s$  
