@@ -25,10 +25,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "resources/physics-2/exercises/set5.pdf"
+                "file": "resources/circuit-theor-2/books/Electric Circuit Analysis Cal Poly State University -- Alexander, Sadiku -- 2014 -- Mc Graw Hill -- isbn13 9781308104560 -- f9fecf59595269a056990fa8c3f986df -- Anna’s Archive.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "set5"
+              "title": "Electric Circuit Analysis Cal Poly State University -- Alexander, Sadiku -- 2014 -- Mc Graw Hill -- isbn13 9781308104560 -- f9fecf59595269a056990fa8c3f986df -- Anna’s Archive"
             }
           }
         ],
@@ -89,7 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 500.5
+    "width": 357.5
   },
   "right": {
     "id": "77922b9036872af3",
@@ -208,6 +208,8 @@
   },
   "active": "1d7600a9ff1daaf1",
   "lastOpenFiles": [
+    "resources/circuit-theor-2/lectures/CT_Lecture_2_05_TwoPort.pdf",
+    "resources/physics-2/exercises/set5.pdf",
     "Measurements.md",
     "resources/physics-2/exercises/set7.pdf",
     "resources/physics-2/exercises/set6.pdf",
@@ -219,7 +221,6 @@
     "resources/mathematical-analysis-2/lectures/Fourier_basic_formulae.pdf",
     "resources/mathematical-analysis-2/lectures/Lect01_Power_Series.pdf",
     "resources/mathematical-analysis-2/lectures/complex_Fourier.pdf",
-    "resources/mathematical-analysis-2/lectures/Fourier_series_McInerney_Kinga_18_part3 1.pdf",
     "Home.md",
     "Note Template.md",
     "README.md",
